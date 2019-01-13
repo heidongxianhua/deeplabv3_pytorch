@@ -9,9 +9,9 @@ glob<br>
 imageio<br>
 其中torchsummaryX的功能和keras中model.summary()一样，可以打印出来model的结构，查看结构是否正确。安装方式如下：<br>
 ```
-pip install torchsummaryX<br>
+pip install torchsummaryX
 ```
-[使用方法参考](https://github.com/nmhkahn/torchsummaryX）<br>
+[使用方法参考](https://github.com/nmhkahn/torchsummaryX）
 另外介绍几个相关的可视化工具，torchsummary(类似torchsummaryX),[graphviz](https://github.com/szagoruyko/pytorchviz)<br>
 ## 用法
 代码结构<br>
